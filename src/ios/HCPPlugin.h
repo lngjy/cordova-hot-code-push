@@ -73,4 +73,6 @@
  */
 - (void)jsGetVersionInfo:(CDVInvokedUrlCommand *)command;
 
+- (void)jsReloadPage:(CDVInvokedUrlCommand *)command;
+
 @end
